@@ -1,7 +1,7 @@
 # AppliedStats
 Here I gather my homeworks on Applied Statistics. Later I will add my hw's from Avito Analytics Academy.
 
-![AppliedStats logo](https://github.com/yk4r2/AppliedStats/blob/main/logo.jpg "applied stats pic")
+![AppliedStats logo](https://github.com/yk4r2/AppliedStats/blob/main/pics/logo.jpg "applied stats pic")
 ## Requirements
 
 You should have a `Scikit-learn` package preinstalled. Also `pandas` is needed. You should launch all the notebooks using `jupyter notebook`.
