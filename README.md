@@ -20,7 +20,8 @@ In the [MIPT folder](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homewo
 * [HW1](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW1) --- basic EDA methods;
 * [HW2](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW2) --- parametric hypothesis tests;
 * [HW3](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW3) --- non-parametric hypothesis tests;
+* [HW4](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW4) --- multiple hypothesis testing;
 
 ### Progress
-3 homeworks done by far.
+4 homeworks done by far.
 
