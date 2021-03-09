@@ -18,7 +18,8 @@ Here you can find my homeworks and I have some space left for big tests:
 * [HW2](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW2) --- parametric hypothesis tests;
 * [HW3](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW3) --- non-parametric hypothesis tests;
 * [HW4](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW4) --- multiple hypothesis testing;
+* [HW5](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW5) --- correlational analysis;
 
 ### Progress
-4 homeworks done by far.
+5 homeworks done by far.
 
