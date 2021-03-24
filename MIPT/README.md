@@ -20,9 +20,9 @@ Here you can find my homeworks and I have some space left for big tests:
 * [HW4](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW4) --- multiple hypothesis testing;
 * [HW5](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW5) --- correlation analysis;
 * [HW6](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW6) --- dispersion analysis;
-* [HW7](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW7) --- regression analysis (not done yet);
+* [HW7](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW7) --- regression analysis;
 
 
 ### Progress
-6.5 homeworks done by far.
+7 homeworks done by far.
 
