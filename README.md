@@ -17,13 +17,15 @@ Just install `jupyter notebook` and have fun.
 Here there are two main folders: [MIPT applied stats folder](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks "MIPT") and AVITO.
 
 In the [MIPT folder](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks "here") you can find my homeworks and I have some space left for big tests:
-* [HW1](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW1) --- basic EDA methods;
-* [HW2](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW2) --- parametric hypothesis tests;
-* [HW3](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW3) --- non-parametric hypothesis tests;
-* [HW4](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW4) --- multiple hypothesis testing;
-* [HW5](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW5) --- correlation analysis;
-* [HW6](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW6) --- dispersion analysis;
-* [HW7](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW7) --- regression analysis;
+* [HW1](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW1) — basic EDA methods;
+* [HW2](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW2) — parametric hypothesis tests;
+* [HW3](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW3) — non-parametric hypothesis tests;
+* [HW4](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW4) — multiple hypothesis testing;
+* [HW5](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW5) — correlation analysis;
+* [HW6](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW6) — dispersion analysis;
+* [HW7](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW7) — regression analysis;
+* [HW8](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW8) — generalized regression;
+
 
 ### Progress
 7 homeworks done by far.
