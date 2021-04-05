@@ -23,7 +23,9 @@ Here you can find my homeworks and I have some space left for big tests:
 * [HW7](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW7) — regression analysis;
 * [HW8](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW8) — generalized regression;
 
+Labs:
+* [Lab1](https://github.com/yk4r2/AppliedStats/blob/main/MIPT/labs/lab1) — first lab work;
 
 ### Progress
-8 homeworks done by far.
+8 homeworks and 1 lab done by far.
 

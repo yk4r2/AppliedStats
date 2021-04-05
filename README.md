@@ -26,7 +26,9 @@ In the [MIPT folder](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homewo
 * [HW7](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW7) — regression analysis;
 * [HW8](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW8) — generalized regression;
 
+Labs:
+* [Lab1](https://github.com/yk4r2/AppliedStats/blob/main/MIPT/labs/lab1) — first lab work;
 
 ### Progress
-7 homeworks done by far.
+8 homeworks and 1 lab done by far.
 
