@@ -12,7 +12,7 @@ import numpy as np
 import pandas as pd
 from zlib import crc32
 
-with open("sem8.html") as f:
+with open("data/sem8.html") as f:
     soup = BeautifulSoup(f, "html.parser")
 f.close()
 
