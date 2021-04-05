@@ -1,4 +1,8 @@
-# Лабораторная работа 1
+# Lab 1
+* [Lab1](https://github.com/yk4r2/AppliedStats/blob/main/MIPT/labs/lab1/main.ipynb)
+* [Get_lab script](https://github.com/yk4r2/AppliedStats/blob/main/MIPT/labs/lab1/get_lab.py) 
+* [Email parser](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/labs/lab1/github_parser)
+
 ## Алгоритм получения задания
 1. Запустите скрипт get_lab.py.
 2. Введите адрес своей электронной почты.

@@ -25,6 +25,7 @@ Here you can find my homeworks and I have some space left for big tests:
 
 Labs:
 * [Lab1](https://github.com/yk4r2/AppliedStats/blob/main/MIPT/labs/lab1) — first lab work;
+* [Parsed list of lab1 emails](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/labs/lab1/github_parser);
 
 ### Progress
 8 homeworks and 1 lab done by far.
