@@ -13,7 +13,9 @@ Other packages install-scripts are in front of the notebooks.
 Just install `jupyter notebook` and have fun.
 
 ## Roadmap
-Here you can find my homeworks and I have some space left for big tests:
+Here you can find my homeworks and labs:
+
+Homeworks:
 * [HW1](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW1) — basic EDA methods;
 * [HW2](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW2) — parametric hypothesis tests;
 * [HW3](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW3) — non-parametric hypothesis tests;
