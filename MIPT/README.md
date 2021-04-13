@@ -25,11 +25,12 @@ Homeworks:
 * [HW7](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW7) — regression analysis;
 * [HW8](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW8) — generalized regression;
 * [HW9](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW9) — time series analysis;
+* [HW10](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW10) — sequential analysis;
 
 Labs:
 * [Lab1](https://github.com/yk4r2/AppliedStats/blob/main/MIPT/labs/lab1) — first lab work;
 * [Parsed list of lab1 emails](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/labs/lab1/github_parser);
 
 ### Progress
-9 homeworks and 1 lab done by far.
+10 homeworks and 1 lab done by far.
 
