@@ -33,6 +33,8 @@ Homeworks:
 Labs:
 * [Lab1](https://github.com/yk4r2/AppliedStats/blob/main/MIPT/labs/lab1) — first lab work;
 * [Parsed list of lab1 emails](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/labs/lab1/github_parser);
+* [Lab2](https://github.com/yk4r2/AppliedStats/blob/main/MIPT/labs/lab2) — first lab work;
+* [Parsed list of lab2 emails](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/labs/lab2/github_parser);
 
 ### Progress
 10 homeworks and 1 lab done by far.
