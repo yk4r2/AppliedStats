@@ -38,5 +38,5 @@ Labs:
 * [Parsed list of lab2 emails](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/labs/lab2/github_parser);
 
 ### Progress
-10 homeworks and 1 lab done by far.
+11 homeworks and 2 labs done by far.
 
