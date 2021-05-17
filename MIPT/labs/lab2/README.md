@@ -3,6 +3,15 @@
 * [Get_lab script](https://github.com/yk4r2/AppliedStats/blob/main/MIPT/labs/lab2/get_lab.py) 
 * [Email parser](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/labs/lab2/github_parser)
 
+## Total grades and issues:
+
+| Task: | 1 | 2 | 3 | 4 |
+| ----- |:-:|:-:|:-:|:-:|
+|       |0.5| 1 |0.5| 1 |
+
+**Задача 1:** [pearsonr(*data_sampler(1000, i))[0] for i in range(100)]\
+**Задача 3:** Там accuracy под 90% на тесте ожидается. Явно что-то не так
+
 ## Алгоритм получения задания
 1. Запустите скрипт get_lab.py.
 2. Введите адрес своей электронной почты.

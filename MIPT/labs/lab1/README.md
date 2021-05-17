@@ -3,6 +3,16 @@
 * [Get_lab script](https://github.com/yk4r2/AppliedStats/blob/main/MIPT/labs/lab1/get_lab.py) 
 * [Email parser](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/labs/lab1/github_parser)
 
+## Total grades and issues:
+
+| Task: | 1 | 2 | 3 | 4 | 5 | 6 |
+| ----- |:-:|:-:|:-:|:-:|:-:|:-:|
+|       |0.5| 1 | 1 | 0 |0.5| 1 |
+
+Задача 1: почему из линейной зависимости следует совпадение коэффициентов?\ 
+Задача 3: в смысле не было поправки Холма-Бонферрони? Это и есть метод Холма.\
+Задача 5: интерпретация признаков?
+
 ## Алгоритм получения задания
 1. Запустите скрипт get_lab.py.
 2. Введите адрес своей электронной почты.

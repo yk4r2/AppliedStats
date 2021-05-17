@@ -1,6 +1,3 @@
-# MIPT Applied Stats 
-Here I gather my homeworks on Applied Statistics. 
-
 ## Requirements
 
 You should have a `Scikit-learn` package preinstalled. Also `pandas` is needed. You should launch all the notebooks using `jupyter notebook`.
@@ -29,15 +26,8 @@ Homeworks:
 * [HW12](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW12) — Markov models;
 
 
-Labs:
-* [Lab1](https://github.com/yk4r2/AppliedStats/blob/main/MIPT/labs/lab1) — first lab work;
-* [Parsed list of lab1 emails](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/labs/lab1/github_parser);
-* [Lab2](https://github.com/yk4r2/AppliedStats/blob/main/MIPT/labs/lab2) — first lab work;
-* [Parsed list of lab2 emails](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/labs/lab2/github_parser);
+### Final scores for hw's:
 
-### Progress
-11 homeworks and 2 labs done by far.
-
-### Finally
-Passed the course with a total grade of 8/10.
-
+| Final        | 1    | 2            | 3            | 4 | 5 | 6 | 7   | 8   | 9 | 10   | 11 | 12           |
+|--------------|------|--------------|--------------|---|---|---|-----|-----|---|------|----|--------------|
+| 0,6623412698 | 0,86 | 0,8571428571 | 0,7142857143 | 1 | 1 | 0 | 0,6 | 0,5 | 1 | 0,75 |  0 | 0,6666666667 |

@@ -1,6 +1,8 @@
 # AppliedStats
 Here I gather my homeworks on Applied Statistics. Later I will add my hw's from Avito Analytics Academy.
 
+**Feel free to 🌟 the repo :)**
+
 ![AppliedStats logo](https://github.com/yk4r2/AppliedStats/blob/main/pics/logo.jpg "applied stats pic")
 ## Requirements
 
@@ -39,4 +41,7 @@ Labs:
 
 ### Progress
 11 homeworks and 2 labs done by far.
+
+### Finally
+Passed the course with a total grade of 8/10.
 
