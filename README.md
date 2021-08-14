@@ -48,5 +48,5 @@ Labs:\
 
 ### 🏁 Finally
 Total grade:\
-![T0t4l gr4d3](https://progress-bar.dev/10/?scale=8&width=200&suffix=)
+![T0t4l gr4d3](https://progress-bar.dev/8/?scale=10&width=200&suffix=)
 
