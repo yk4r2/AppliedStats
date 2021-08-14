@@ -39,10 +39,10 @@ Labs:
 
 ### 🛤 Progress
 Homeworks:\
-![Homeworks](https://progress-bar.dev/11/?scale=12&suffix=)
+![Homeworks](https://progress-bar.dev/11/?scale=12&width=200&suffix=)
 
 Labs:\
-![Labs](https://progress-bar.dev/2/?scale=2&suffix=)
+![Labs](https://progress-bar.dev/2/?scale=2&width=200&suffix=)
 
 ### 🏁 Finally
 Passed the course with a total grade of 8/10.
