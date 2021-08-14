@@ -1,10 +1,10 @@
-# AppliedStats
+# 😱 AppliedStats
 Here I gather my homeworks on Applied Statistics. Later I will add my hw's from Avito Analytics Academy.
 
-**Feel free to 🌟 the repo :)**
+**Feel free to 🌟 the repo!**
 
 ![AppliedStats logo](https://github.com/yk4r2/AppliedStats/blob/main/pics/logo.jpg "applied stats pic")
-## Requirements
+## 🍻 Requirements
 
 You should have a `Scikit-learn` package preinstalled. Also `pandas` is needed. You should launch all the notebooks using `jupyter notebook`.
 ```bash
@@ -12,11 +12,11 @@ pip install numpy scipy pandas matplotlib ipython notebook
 ```
 Other packages install-scripts are in front of the notebooks. 
 
-## Usage
+## 🧮 Usage
 Just install `jupyter notebook` and have fun.
 
-## Roadmap
-Here there are two main folders: [MIPT applied stats folder](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks "MIPT") and AVITO.
+## 🗺 Roadmap
+Here there will be two main folders: [MIPT applied stats folder](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks "MIPT") and AVITO sometimes.
 
 In the [MIPT folder](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks "here") you can find my homeworks and labs:
 
@@ -39,9 +39,9 @@ Labs:
 * [Lab2](https://github.com/yk4r2/AppliedStats/blob/main/MIPT/labs/lab2) — first lab work;
 * [Parsed list of lab2 emails](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/labs/lab2/github_parser);
 
-### Progress
+### 🛤 Progress
 11 homeworks and 2 labs done by far.
 
-### Finally
+### 🏁 Finally
 Passed the course with a total grade of 8/10.
 
