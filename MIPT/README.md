@@ -1,9 +1,9 @@
-# 😱 MIPT Applied Stats 
+# 🚀 MIPT Applied Stats 
 Here I gather my homeworks on Applied Statistics. 
 
-Feel free to 🌟 the repo!
+**Feel free to 🌟 the repo!**
 
-## 🍻 Requirements
+## 🛠 Requirements
 
 You should have a `Scikit-learn` package preinstalled. Also `pandas` is needed. You should launch all the notebooks using `jupyter notebook`.
 ```bash
@@ -11,7 +11,7 @@ pip install numpy scipy pandas matplotlib ipython notebook
 ```
 Other packages install-scripts are inside the notebooks. 
 
-## 🧮 Usage
+## ⏳ Quick Start
 Just install `jupyter notebook` and have fun.
 
 ## 🗺 Roadmap
