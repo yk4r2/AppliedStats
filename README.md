@@ -1,10 +1,10 @@
-# 😱 AppliedStats
+# 🚀 AppliedStats
 Here I gather my homeworks on Applied Statistics. Later I will add my hw's from Avito Analytics Academy.
 
 **Feel free to 🌟 the repo!**
 
 ![AppliedStats logo](https://github.com/yk4r2/AppliedStats/blob/main/pics/logo.jpg "applied stats pic")
-## 🍻 Requirements
+## 🛠 Requirements
 
 You should have a `Scikit-learn` package preinstalled. Also `pandas` is needed. You should launch all the notebooks using `jupyter notebook`.
 ```bash
@@ -12,7 +12,7 @@ pip install numpy scipy pandas matplotlib ipython notebook
 ```
 Other packages install-scripts are in front of the notebooks. 
 
-## 🧮 Usage
+## ⏳ Quick Start
 Just install `jupyter notebook` and have fun.
 
 ## 🗺 Roadmap
@@ -34,14 +34,19 @@ Homeworks:
 * [HW12](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/homeworks/HW12) — Markov models;
 
 Labs:
-* [Lab1](https://github.com/yk4r2/AppliedStats/blob/main/MIPT/labs/lab1) — first lab work;
+* [Lab1](https://github.com/yk4r2/AppliedStats/blob/main/MIPT/labs/lab1) — first lab;
 * [Parsed list of lab1 emails](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/labs/lab1/github_parser);
-* [Lab2](https://github.com/yk4r2/AppliedStats/blob/main/MIPT/labs/lab2) — first lab work;
+* [Lab2](https://github.com/yk4r2/AppliedStats/blob/main/MIPT/labs/lab2) — first lab;
 * [Parsed list of lab2 emails](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/labs/lab2/github_parser);
 
 ### 🛤 Progress
-11 homeworks and 2 labs done by far.
+Homeworks:\
+![Homeworks](https://progress-bar.dev/11/?scale=12&width=200&suffix=)
+
+Labs:\
+![Labs](https://progress-bar.dev/2/?scale=2&width=200&suffix=)
 
 ### 🏁 Finally
-Passed the course with a total grade of 8/10.
+Total grade:\
+![T0t4l gr4d3](https://progress-bar.dev/10/?scale=8&width=200&suffix=)
 
