@@ -38,8 +38,11 @@ Labs:
 * [Parsed list of lab2 emails](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/labs/lab2/github_parser);
 
 ### 🛤 Progress
-![Homeworks](https://progress-bar.dev/11/?scale=12&title=homeworks&width=300&color=babaca&suffix=)\
-![Homeworks](https://progress-bar.dev/2/?scale=2&title=labs&width=350&color=babaca&suffix=)
+Homeworks:\
+![Homeworks](https://progress-bar.dev/11/?scale=12&suffix=)
+
+Labs:\
+![Labs](https://progress-bar.dev/2/?scale=2&suffix=)
 
 ### 🏁 Finally
 Passed the course with a total grade of 8/10.
