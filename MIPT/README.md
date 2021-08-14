@@ -45,5 +45,6 @@ Labs:\
 ![Labs](https://progress-bar.dev/2/?scale=2&width=200&suffix=)
 
 ### 🏁 Finally
-Passed the course with a total grade of 8/10.
+Total grade:\
+![T0t4l gr4d3](https://progress-bar.dev/8/?scale=10&width=200&suffix=)
 
