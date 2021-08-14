@@ -1,18 +1,20 @@
-# MIPT Applied Stats 
+# 😱 MIPT Applied Stats 
 Here I gather my homeworks on Applied Statistics. 
 
-## Requirements
+Feel free to 🌟 the repo!
+
+## 🍻 Requirements
 
 You should have a `Scikit-learn` package preinstalled. Also `pandas` is needed. You should launch all the notebooks using `jupyter notebook`.
 ```bash
 pip install numpy scipy pandas matplotlib ipython notebook
 ```
-Other packages install-scripts are in front of the notebooks. 
+Other packages install-scripts are inside the notebooks. 
 
-## Usage
+## 🧮 Usage
 Just install `jupyter notebook` and have fun.
 
-## Roadmap
+## 🗺 Roadmap
 Here you can find my homeworks and labs:
 
 Homeworks:
@@ -35,9 +37,10 @@ Labs:
 * [Lab2](https://github.com/yk4r2/AppliedStats/blob/main/MIPT/labs/lab2) — first lab work;
 * [Parsed list of lab2 emails](https://github.com/yk4r2/AppliedStats/tree/main/MIPT/labs/lab2/github_parser);
 
-### Progress
-11 homeworks and 2 labs done by far.
+### 🛤 Progress
+![Homeworks](https://progress-bar.dev/11/?scale=12&title=homeworks&width=200&color=babaca&suffix=$)
+![Homeworks](https://progress-bar.dev/1/?scale=2&title=labs&width=200&color=babaca&suffix=$)
 
-### Finally
+### 🏁 Finally
 Passed the course with a total grade of 8/10.
 
